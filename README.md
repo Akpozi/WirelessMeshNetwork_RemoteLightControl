@@ -1,5 +1,6 @@
 # WirelessMeshNetwork_RemoteLightControl
-WirelessMeshNetwork_RemoteLightControl Implemented on Arduino development board
+
+Wireless Mesh Network Remote Light Control Implemented on Arduino development board
 
 System Architecture
 
